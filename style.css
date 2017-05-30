@@ -1,4 +1,5 @@
 body {
+<<<<<<< HEAD
   font-family: 'Times New Roman', serif;
   background-color: pink;
 }
@@ -11,4 +12,14 @@ p {
   height: 40px;
   width: 100px;
   background-color: lavender;
+=======
+  background-color: green;
+  font-family: sans-serif;
+  /*shutupHECTOR*/
+}
+
+P {
+  font-size: 25px;
+  color: brown;
+>>>>>>> 0f796e76015fb9e21a1bb88965e4d3dc92856a4a
 }

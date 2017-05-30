@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 youGay();
 
 function youGay() {
@@ -12,3 +13,6 @@ function appendMess() {
     <p>${content}</p>`
   );
 }
+=======
+
+>>>>>>> 0f796e76015fb9e21a1bb88965e4d3dc92856a4a
