@@ -1,3 +1,4 @@
+
 function youGay() {
   alert('You are gay Michael');
 }
@@ -10,3 +11,4 @@ function appendMess() {
     <p>${content}</p>`
   );
 }
+
