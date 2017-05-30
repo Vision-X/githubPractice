@@ -1,3 +1,4 @@
+youGay();
 function youGay() {
   alert('You are gay Michael');
 }
