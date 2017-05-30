@@ -1,7 +1,14 @@
 body {
   font-family: 'Times New Roman', serif;
+  background-color: pink;
 }
 
 p {
   color: #fff;
+  font-size: 25px;
+}
+#button {
+  height: 40px;
+  width: 100px;
+  background-color: lavender;
 }
